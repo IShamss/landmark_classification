@@ -1,0 +1,5 @@
+/images
+/landmark_images
+/.ipynb_checkpoints
+*.zip
+*.pt
